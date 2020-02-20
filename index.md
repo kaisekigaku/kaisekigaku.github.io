@@ -8,7 +8,7 @@ webサービスやアプリの開発をしたいです。
 - web開発
 
 # Skills
-- Mac,Ubuntu
+- Mac, Ubuntu
 - JavaScript, Ruby, Python, Swift, Scala, HTML, CSS
 - Node.js, Express, Rails, Django, Flask
 - Git, PostgreSQL, MySQL, Docker, Vagrant
